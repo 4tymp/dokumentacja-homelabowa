@@ -13,7 +13,7 @@ tagi są dla mnie, dokumentację prowadzę w **Obsidian**, więc chcę mieć wsz
 
 # aktualny sprzet na ktorym sie bawie:
 ## serwer z ubuntu
-**Ubuntu wersja???**
+**Ubuntu 26.04 LTS**
 **Procesor:** *i7-4500U*
 **RAM:** *8GB DDR3*
 **Dyski:** *1TB HDD (niedługo więcej)*

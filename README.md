@@ -9,6 +9,8 @@ Data: xx-xx-xxxx
 ```
 tagi są dla mnie, dokumentację prowadzę w **Obsidian**, więc chcę mieć wszystko ładnie połączone. data raczej sama z siebie jest zrozumiała.
 
+do tego w osobnym folderze **labowanie** bede udostepnial przebieg moich konkretnych cwiczen. te dokumenty beda zaczynaly sie od daty *(xxxx-xx-xx zeby bylo chronologicznie)* i beda w formacie pdf, zebym mogl bezposrednio screenshotowac postep laba. format to zwykle bedzie *cel, rozwiazanie, wnioski*
+
 ***milego! ~tmp***
 
 # aktualny sprzet na ktorym sie bawie:

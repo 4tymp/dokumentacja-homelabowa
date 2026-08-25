@@ -12,10 +12,9 @@ potem mozesz dodac exclusions czyli adresy kotyrch NIE chcesz rozdawac.
 
 dalej ustaiwiasz lease duration, czyli na ile komputer dostaje swoj adres.
 
-
 w naszym dzisiejszym przypadku chcemy dodawac dodatkowe opcje, iwec na nastepnym ekranie zacznamy yes.
 
-chcemy uzyc naszego rasa ktorego konfigurowalisy wczesniej, wiec podajemy adres ip naszego domain controllera
+jako default gateway chcemy uzyc naszego rasa ktorego konfigurowalisy wczesniej, wiec podajemy adres ip naszego domain controllera
 
 dajlej uzywamy naszego DC jako dns wiec nie zmieniamy Parent domain
 
@@ -24,3 +23,6 @@ o WINS sie nie martw
 i tak, chcesz aktywowac scope.
 
 ma koniec czesto musisz jeszcze authorisowac twoj serwer, klikasz wiec prawym i Authorise, a potem mozesz jeszcze zrobic Refresh jezeli ci sie nie zaladowal dhcp.
+
+# Rezerwacje
+jezeli chcesz zarezerwowac jakis adres dla specyficznego urzadzenia, wchodzisz w tools > DHCP > `<domena>` > IPv4 > Scope > Reservations i tam sobie dodajesz co chcesz.

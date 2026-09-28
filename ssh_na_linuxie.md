@@ -76,4 +76,5 @@ sudo systemctl restart ssh.service
 
 i powinienes miec zmieniony port.
 
-
+jezeli chcesz kiedys usunac klucz ssh to mozesz normalnie przez `nano` wejsc w
+`~/.ssh/authorized-keys` i usunac cala linie klucza ktorego nie chcesz miec

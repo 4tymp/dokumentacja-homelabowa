@@ -21,7 +21,7 @@ do tego w osobnym folderze **labowanie** bede udostepnial przebieg moich konkret
 **Dyski:** *1TB HDD (niedługo więcej)*
 
 ## Komputer do labów VMowych
-**Windows 11** *jeszcze*
+**CachyOS**
 **Procesor:** *i3-9100f*
 **Karta graficzna:** *GTX 1660 Super*
 **RAM:** *16GB DDR4*

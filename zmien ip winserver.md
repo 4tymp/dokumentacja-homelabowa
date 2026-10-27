@@ -1,4 +1,4 @@
-**Tagi: [[uczen]] [[Informatyk]] [[Homelab]] [[WinServer]]**
+**Tagi: [[uczen]] [[Informatyk]] [[Homelab]] [[WinServer]] [[Sieci]]**
 **Data: 22-07-2026**
 
 klikasz ikone sieci w prawym dolnym > klikasz Network > Change adapter options

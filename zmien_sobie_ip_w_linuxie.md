@@ -1,4 +1,4 @@
-**Tagi: [[uczen]] [[Informatyk]] [[Linux]] [[Homelab]]**
+**Tagi: [[uczen]] [[Informatyk]] [[Linux]] [[Homelab]] [[Sieci]]**
 **Data: 10-07-2026**
 
 1. sprawdzasz swoj interfejs `ip a`

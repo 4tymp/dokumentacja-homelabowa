@@ -42,7 +42,9 @@ okna:
 - `Ctrl+b 0-9` — przejdz do okna o numerze
 - `Ctrl+b ,` — zmien nazwe okna
 - `Ctrl+b &` — zamknij okno
-
+- `Ctrl+b %` - podzial pionowy
+- `Ctrl+b "` - podzial poziomy
+- `Ctrl+b strzalki` - przelaczanie pomiedzy podzialami
 
 czyli typowy sceniariusz:
 1. laczysz sie z ssh
